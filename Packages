@@ -1,0 +1,14 @@
+Package: com.standrise.cheat
+Name: StandRise Cheat
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: ESP/Aimbot cheat for StandRiseRE
+Maintainer: wewpa
+Author: wewpa
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.standrise.cheat_1.0.0-2+debug_iphoneos-arm.deb
+Size: ...
+MD5sum: ...
+SHA1: ...
+SHA256: ...
